@@ -6,8 +6,10 @@ Sketch:
 
 ![](sketch1.png)
 
-Updated Sketches:
+Cat updated sketch:
 
 ![](sketch2.png)
 
-![](sketch3.png)
+Mouse updated sketch:
+
+![](sketch3.jpg)
