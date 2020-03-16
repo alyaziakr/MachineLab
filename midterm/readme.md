@@ -27,3 +27,5 @@ Cat:
 ![](catfinalsketch.png)
 
 With the cat linkage it was a lot more complicated than the mouse, I attempted to make something similar to what Michael made as an example with cardboard but the cardboard would not turn properly, as it would get stuck sometimes or break because of the lengths of the linkages. What got it to work a few times was changing the length of the cardboard linkages as well as changing the position of how the cardboard strips are linked together by making the further out ones on the top however it still kept getting stuck often.
+
+What I planned to do was create everything with wood, especially wood cut outs of the cat and mouse.
