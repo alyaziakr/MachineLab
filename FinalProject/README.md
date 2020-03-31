@@ -1,4 +1,4 @@
-Final Project
+# Final Project
 
 Theme Ideas:
 - Old school animation/cartoons
