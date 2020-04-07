@@ -41,10 +41,10 @@ Art work mechanic:
 
 # April 8th
   
-    * Dimensions
-    * Materials
-    * Fusion 360 implementation plan
-    * Machines used to fabricate
-    * How pieces are going to be attached
+  * Dimensions
+  * Materials
+  * Fusion 360 implementation plan
+  * Machines used to fabricate
+  * How pieces are going to be attached
 
 
