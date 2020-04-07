@@ -1,5 +1,6 @@
 # Final Project
 
+# April 1st 
 Theme Ideas:
 - Old school animation/cartoons
 - Cats: Like the famous cat clock but more with more cats and automatas
@@ -21,3 +22,29 @@ Sneeze Motion:
 Water Motion:
 
 ![](WaterMotion.jpg)
+
+# April 6th
+
+Main Idea: Art
+
+Description: A figure moving to create a piece of art: the first 15 minutes mark the figure is in the process of starting the drawing. At the 30 minute mark the art work changes to a mid-way sketch and at the hour mark the art work is finished.
+
+Initial Sketches:
+
+Drawing mechanic:
+
+![](initialMovement.png)
+
+Art work mechanic:
+
+![](artworkMechanic.png)
+
+# April 8th
+  
+    * Dimensions
+    * Materials
+    * Fusion 360 implementation plan
+    * Machines used to fabricate
+    * How pieces are going to be attached
+
+
