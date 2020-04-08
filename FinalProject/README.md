@@ -41,11 +41,16 @@ Art work zoetrope mechanic:
 
 # April 8th
   
-  * Dimensions: *Creating sketches and figuring out now*
+  * Dimensions: *Still Trying to figure it out*
   * Materials: Acrylic or wood 
   * Fusion 360 implementation plan: 
     I will start of attempting to create the overall mechanic like a simple skeleton with just the movement linkage for the figure and the rotation of the zoetrope. After that I will add all the different parts like the two or three motors I would need from McMaster Carr and I'll try to create the body to the skeleton parts and put them together if that makes sense.
   * Machines used to fabricate: I'm not sure
-  * How pieces are going to be attached: The linkages and figure will be put together using screws and bolts, the zoetrope would be glued together to create the circular shape on the flat surface. But I need to figure out how ill attatch it to the stepper motor underneath it that makes it rotate. 
+  * How pieces are going to be attached: The linkages and joints etc. on the figure will be put together using screws and bolts, the other parts like the cam and the zoetrope would be glued together to create the circular shape on the flat surface. But I need to figure out how ill attatch it to the stepper motor underneath it that makes it rotate. 
+  
+  Images:
+  
+  ![](motionTrial.png)
+  ![](motionTrial2.png)
 
 
