@@ -52,5 +52,7 @@ Art work zoetrope mechanic:
   
   ![](motionTrial.png)
   ![](motionTrial2.png)
+  ![](motionTrialFull.png)
+
 
 
