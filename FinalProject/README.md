@@ -63,6 +63,6 @@ Images:
 Overall Image:
 ![](overallMachine.png)
 
-Extra Details on the Zoetrope:
+Extra Details on the Zoetrope: One part I'm not sure of how to connect is the stepper motor to the sticks (I don't know if that's the word).
 ![](zoetropeDetails.png)
 
