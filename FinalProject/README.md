@@ -54,5 +54,15 @@ Art work zoetrope mechanic:
   ![](motionTrial2.png)
   ![](motionTrialFull.png)
 
+# April 13th
 
+Created more detailed sketches and added estimated dimensions. I decided that I will attempt to replicate main bodies on fusion to make sure of the dimensions then I'll go back to my plan of creating the main skeleton of the machine.
+
+Images:
+
+Overall Image:
+![](overallMachine.png)
+
+Extra Details on the Zoetrope:
+![](zoetropeDetails.png)
 
