@@ -66,3 +66,22 @@ Overall Image:
 Extra Details on the Zoetrope: One part I'm not sure of how to connect is the stepper motor to the sticks (I don't know if that's the word).
 ![](zoetropeDetails.png)
 
+# April 15
+
+Worked on fusion model:
+
+Created dimensions to figure out ratios and dimensions for the final model (that I now realize are too big):
+![](dimensionsSS.png)
+
+Created two different models one to work our linkages and one to build the final one with the dimensions
+
+The linkages model:
+
+I couldn't figure out how to animate the linkage without moving it myself.
+
+![](linkageAttempt1.png)
+
+Dimension model work in progress:
+
+![](modelWIP1.png)
+![](modelWIP2.png)
