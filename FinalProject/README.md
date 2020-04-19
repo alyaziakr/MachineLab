@@ -70,18 +70,18 @@ Extra Details on the Zoetrope: One part I'm not sure of how to connect is the st
 
 Worked on fusion model:
 
+Created two different models one to work our linkages and one to build the final one with the dimensions
+
 Created dimensions to figure out ratios and dimensions for the final model (that I now realize are too big):
 ![](dimensionsSS.png)
 
-Created two different models one to work our linkages and one to build the final one with the dimensions
+Dimension model work in progress:
+
+![](modelWIP1.png)
+![](modelWIP2.png)
 
 The linkages model:
 
 I couldn't figure out how to animate the linkage without moving it myself.
 
 ![](linkageAttempt1.png)
-
-Dimension model work in progress:
-
-![](modelWIP1.png)
-![](modelWIP2.png)
