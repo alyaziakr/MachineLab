@@ -66,7 +66,7 @@ Overall Image:
 Extra Details on the Zoetrope: One part I'm not sure of how to connect is the stepper motor to the sticks (I don't know if that's the word).
 ![](zoetropeDetails.png)
 
-# April 15
+# April 15 and 20
 
 Worked on fusion model:
 
@@ -85,3 +85,19 @@ The linkages model:
 I couldn't figure out how to animate the linkage without moving it myself.
 
 ![](linkageAttempt1.png)
+
+After help I used grounding and allowing all contact to be able to move the rest
+
+# April 22
+
+Redesigned parts of the mechanic because it was unbalanced before:
+
+Sketch:
+![](redesignSketch.png)
+
+I remade the fusion project with better dimensions now because they previous one was too large
+Fusion Progress:
+
+![](newDimensions.png)
+![](newFusion1.png)
+
