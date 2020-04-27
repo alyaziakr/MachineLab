@@ -114,3 +114,7 @@ Issues and concerns:
 - I’m also unsure of shaft sizes.
 
 Images:
+
+![](updateapril27.png)
+![](topangle.png)
+![](slotcloseup.png)
