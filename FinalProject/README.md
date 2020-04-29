@@ -123,6 +123,9 @@ Images:
 I added support for the torso shaft (1) as well as a clamping hub for the zoetrope (2).
 
 1.
+
 ![](updateapril29_1.png)
+
 2.
+
 ![](updateapril29_2.png)
