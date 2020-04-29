@@ -108,13 +108,21 @@ I worked more on the fusion model.
 Issues and concerns: 
 
 - Size of stepper motor hub: will it connect properly to the zoetrope and is the platform to prop it up and contain the motor properly?
-- Fusion confusion (it rhymes!): I still can’t test the model properly because it breaks everything but I’m going to be attempting to join the areas that aren’t already connected to see if that would fix anything. However, I’m not sure how to go about doing that when I already have everything built.
 - Are the slot sizes where the linkages/sticks are in big enough to work or would it break?
-- Can the cam be this big and the same for both? Maybe it can be 3D printed?
-- I’m also unsure of shaft sizes.
+- Maybe the cam can be 3D printed because it's rather big/thick?
+- I’m also unsure of the hole sizes for the zoetrope
 
 Images:
 
 ![](updateapril27.png)
 ![](topangle.png)
 ![](slotcloseup.png)
+
+# April 29
+
+I added support for the torso shaft (1) as well as a clamping hub for the zoetrope (2).
+
+1.
+![](updateapril29_1.png)
+2.
+![](updateapril29_2.png)
