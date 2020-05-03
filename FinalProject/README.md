@@ -129,3 +129,15 @@ I added support for the torso shaft (1) as well as a clamping hub for the zoetro
 2.
 
 ![](updateapril29_2.png)
+
+# May 3
+
+Close to final touches:
+
+Combined the shaft and the cam
+
+![](shaftcombination.png)
+
+Added a hub to connect the stepper motor to the shaft
+
+![](motorhub.png)
