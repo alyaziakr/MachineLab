@@ -141,3 +141,12 @@ Combined the shaft and the cam
 Added a hub to connect the stepper motor to the shaft
 
 ![](motorhub.png)
+
+# May 5
+
+Updated the stepper motor and hub/coupler
+
+![](coupler1.png)
+![](coupler2.png)
+
+
