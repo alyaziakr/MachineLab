@@ -75,7 +75,7 @@ Images:
 Overall Image:
 ![](overallMachine.png)
 
-Extra Details on the Zoetrope: One part I'm not sure of how to connect is the stepper motor to the sticks (I don't know if that's the word).
+Extra Details on the Zoetrope: One part I'm not sure of how to connect is the stepper motor. (Solution I ended up finding was getting a coupler)
 ![](zoetropeDetails.png)
 
 # April 15 and 20
@@ -121,7 +121,7 @@ Issues and concerns:
 
 - Size of stepper motor hub: will it connect properly to the zoetrope and is the platform to prop it up and contain the motor properly?
 - Are the slot sizes where the linkages/sticks are in big enough to work or would it break?
-- Maybe the cam can be 3D printed because it's rather big/thick?
+- Maybe the cam can be 3D printed because it's rather big/thick? 
 - I’m also unsure of the hole sizes for the zoetrope
 
 Images:
@@ -131,6 +131,11 @@ Images:
 ![](slotcloseup.png)
 
 # April 29
+
+Resolved some issues from last time:
+
+I will be able to get the cam 3D printed as indeed it cannot be laser cut that thick.
+The sizes of the linkages worked fine.
 
 I added support for the torso shaft (1) as well as a clamping hub for the zoetrope (2).
 
@@ -156,7 +161,7 @@ Added a hub to connect the stepper motor to the shaft
 
 # May 4
 
-Updated the stepper motor and hub/coupler
+Updated the stepper motor and hub/coupler to something that would work because the first one didnt have the notch that tightness the hole the shaft and motor would go into. 
 
 ![](coupler1.png)
 ![](coupler2.png)
@@ -169,3 +174,17 @@ One issue that was brought up to me was that when I was gonna add the motor it w
 ![](camMotor.png)
 
 # Discussion
+
+Fabrication:
+  I would like everything to be laser cut with the exception of the cam, shafts, couplers and zoetrope.
+  
+Other components needed:
+  Hot glue to stick surfaces together, 8 3m screws to attatch stepper motor.
+  
+Remaining concerns:
+  I'm not sure if I have any remaining problems, I am however concerened to see how it would end up being built I tried looking over everything a couple of times but I'm worried I might've missed something however that will only be resolved by getting a test build and trying to put everything together.
+  
+Difficulties and Learning Outcomes:
+  At the beggining I really could not wrap my head around the movementand how it would physically be possible, I've changed the mechanic sketch a few times and my plan especially earlier on had huge issues like balance, they were designs that were some what close to the final plan but just not mechanisms that would have worked, there was also issues of working against the mechanical power. All the issues with the plan were resolved by thinking and visualizing the mechanic more while sketching more and more sketches. Taking breaks and looking back on the mechanic also helped in spotting issues I overlooked. Moving on I've mentioned these above but I also struggled with how to attatch the motors before being given the idea of couplers.
+  
+  By the end I feel like I've, of course, actually grasped how these mechanisms work because of the issues I mentioned throughout this documentation that I managed to overcome and resolve. Especially when thinking about new ideas I think about how for example linkages and cams would work well with said idea.
