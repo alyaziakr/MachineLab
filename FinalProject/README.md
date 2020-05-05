@@ -154,11 +154,18 @@ Added a hub to connect the stepper motor to the shaft
 
 ![](motorhub.png)
 
-# May 5
+# May 4
 
 Updated the stepper motor and hub/coupler
 
 ![](coupler1.png)
 ![](coupler2.png)
 
+# May 6
 
+One issue that was brought up to me was that when I was gonna add the motor it would have no support so for final touches I've added support for both motors:
+
+![](zoetropeMotor.png)
+![](camMotor.png)
+
+# Discussion
