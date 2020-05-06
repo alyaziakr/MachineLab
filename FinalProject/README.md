@@ -179,7 +179,7 @@ One issue that was brought up to me was that when I was gonna add the motor it w
 With the zoetrope motor it didn't have enough support so I ended up going back and adding two walls on the side:
 
 ![](support1.png)
-![](support1.png)
+![](support2.png)
 
 # Discussion
 
