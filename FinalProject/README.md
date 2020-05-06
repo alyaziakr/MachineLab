@@ -4,6 +4,8 @@
 
 This project at the end is a mechanism of a drawing automata. It a figure that will gesture that it is painting with a 3 frame drawing animation looping and at every mark of the hour (15, 30, 00) it will change the painting animation in the back in a zoetrope to show progress in the art work.
 
+Fusion File: https://a360.co/3flWlIV
+
 Final result from the front:
 
 ![](frontFinal.png)
@@ -12,7 +14,6 @@ Back:
 
 ![](backFinal.png)
 
-Fusion File: https://a360.co/3flWlIV
 
 # April 1st: Coming up with ideas
 Theme Ideas:
