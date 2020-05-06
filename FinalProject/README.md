@@ -179,7 +179,7 @@ Fabrication:
   I would like everything to be laser cut with the exception of the cam, shafts, couplers and zoetrope.
   
 Other components needed:
-  Hot glue to stick surfaces together, 8 3m screws to attatch stepper motor.
+  2 stepper motors, Hot glue to stick surfaces together, 8 3m screws to attatch stepper motor.
   
 Remaining concerns:
   I'm not sure if I have any remaining problems, I am however concerened to see how it would end up being built I tried looking over everything a couple of times but I'm worried I might've missed something however that will only be resolved by getting a test build and trying to put everything together.
