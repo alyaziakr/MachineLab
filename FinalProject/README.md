@@ -12,6 +12,8 @@ Back:
 
 ![](backFinal.png)
 
+Fusion File: https://a360.co/3flWlIV
+
 # April 1st: Coming up with ideas
 Theme Ideas:
 - Old school animation/cartoons
@@ -172,6 +174,11 @@ One issue that was brought up to me was that when I was gonna add the motor it w
 
 ![](zoetropeMotor.png)
 ![](camMotor.png)
+
+With the zoetrope motor it didn't have enough support so I ended up going back and adding two walls on the side:
+
+![](support1.png)
+![](support1.png)
 
 # Discussion
 
