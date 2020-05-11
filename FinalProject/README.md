@@ -187,6 +187,19 @@ At this point I've just been editing small aspects of the model like the support
 ![](support3.png)
 ![](support4.png)
 
+# Final Art for the zoetrope:
+
+![](painting_ 1.png)
+![](painting_ 2.png)
+![](painting_ 3.png)
+![](painting_ 4.png)
+![](painting_ 5.png)
+![](painting_ 6.png)
+![](painting_ 7.png)
+![](painting_ 8.png)
+![](painting_ 9.png)
+
+
 # Discussion
 
 Fabrication:
