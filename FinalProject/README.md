@@ -181,6 +181,12 @@ With the zoetrope motor it didn't have enough support so I ended up going back a
 ![](support1.png)
 ![](support2.png)
 
+# May 11th
+
+At this point I've just been editing small aspects of the model like the support for the motors:
+![](support3.png)
+![](support4.png)
+
 # Discussion
 
 Fabrication:
