@@ -189,7 +189,7 @@ At this point I've just been editing small aspects of the model like the support
 
 # Final Art for the zoetrope:
 
-![](Painting_1.png | width=100)
+![](Painting_1.png =250x)
 ![](Painting_2.png | width=100)
 ![](Painting_3.png | width=100)
 ![](Painting_4.png | width=100)
