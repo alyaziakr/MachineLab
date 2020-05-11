@@ -8,7 +8,7 @@ Fusion File: https://a360.co/3flWlIV
 
 Final result from the front:
 
-![](frontFinal.png)
+![](images/frontFinal.png)
 
 Back:
 
