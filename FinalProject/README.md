@@ -12,7 +12,7 @@ Final result from the front:
 
 Back:
 
-![](backFinal.png)
+![](images/backFinal.png)
 
 
 # April 1st: Coming up with ideas
@@ -28,15 +28,15 @@ It is simple and not very complex right now but my idea is to have a a giant fig
 
 Concept Art Work:
 
-![](Concept.jpg)
+![](images/Concept.jpg)
 
 Sneeze Motion:
 
-![](FigureMotion.jpg)
+![](images/FigureMotion.jpg)
 
 Water Motion:
 
-![](WaterMotion.jpg)
+![](images/WaterMotion.jpg)
 
 # April 6th
 
@@ -48,11 +48,11 @@ Initial Sketches:
 
 Figure drawing movement mechanic:
 
-![](initialMovement.png)
+![](images/initialMovement.png)
 
 Art work zoetrope mechanic:
 
-![](artworkMechanic.png)
+![](images/artworkMechanic.png)
 
 # April 8th
   
@@ -65,9 +65,9 @@ Art work zoetrope mechanic:
   
   Images:
   
-  ![](motionTrial.png)
-  ![](motionTrial2.png)
-  ![](motionTrialFull.png)
+  ![](images/motionTrial.png)
+  ![](images/motionTrial2.png)
+  ![](images/motionTrialFull.png)
 
 # April 13th
 
@@ -76,10 +76,10 @@ Created more detailed sketches and added estimated dimensions. I decided that I 
 Images:
 
 Overall Image:
-![](overallMachine.png)
+![](images/overallMachine.png)
 
 Extra Details on the Zoetrope: One part I'm not sure of how to connect is the stepper motor. (Solution I ended up finding was getting a coupler)
-![](zoetropeDetails.png)
+![](images/zoetropeDetails.png)
 
 # April 15 and 20
 
@@ -88,18 +88,18 @@ Worked on fusion model:
 Created two different models one to work our linkages and one to build the final one with the dimensions
 
 Created dimensions to figure out ratios and dimensions for the final model (that I now realize are too big):
-![](dimensionsSS.png)
+![](images/dimensionsSS.png)
 
 Dimension model work in progress:
 
-![](modelWIP1.png)
-![](modelWIP2.png)
+![](images/modelWIP1.png)
+![](images/modelWIP2.png)
 
 The linkages model:
 
 I couldn't figure out how to animate the linkage without moving it myself.
 
-![](linkageAttempt1.png)
+![](images/linkageAttempt1.png)
 
 After help I used grounding and allowing all contact to be able to move the rest
 
@@ -108,13 +108,13 @@ After help I used grounding and allowing all contact to be able to move the rest
 Redesigned parts of the mechanic because it was unbalanced before:
 
 Sketch:
-![](redesignSketch.png)
+![](images/redesignSketch.png)
 
 I remade the fusion project with better dimensions now because they previous one was too large
 Fusion Progress:
 
-![](newDimensions.png)
-![](newFusion1.png)
+![](images/newDimensions.png)
+![](images/newFusion1.png)
 
 # April 27
 
@@ -129,9 +129,9 @@ Issues and concerns:
 
 Images:
 
-![](updateapril27.png)
-![](topangle.png)
-![](slotcloseup.png)
+![](images/updateapril27.png)
+![](images/topangle.png)
+![](images/slotcloseup.png)
 
 # April 29
 
@@ -144,11 +144,11 @@ I added support for the torso shaft (1) as well as a clamping hub for the zoetro
 
 1.
 
-![](updateapril29_1.png)
+![](images/updateapril29_1.png)
 
 2.
 
-![](updateapril29_2.png)
+![](images/updateapril29_2.png)
 
 # May 3
 
@@ -156,44 +156,44 @@ Close to final touches:
 
 Combined the shaft and the cam
 
-![](shaftcombination.png)
+![](images/shaftcombination.png)
 
 Added a hub to connect the stepper motor to the shaft
 
-![](motorhub.png)
+![](images/motorhub.png)
 
 # May 4
 
 Updated the stepper motor and hub/coupler to something that would work because the first one didnt have the notch that tightness the hole the shaft and motor would go into. 
 
-![](coupler1.png)
-![](coupler2.png)
+![](images/coupler1.png)
+![](images/coupler2.png)
 
 # May 6
 
 One issue that was brought up to me was that when I was gonna add the motor it would have no support so for final touches I've added support for both motors:
 
-![](zoetropeMotor.png)
-![](camMotor.png)
+![](images/zoetropeMotor.png)
+![](images/camMotor.png)
 
 With the zoetrope motor it didn't have enough support so I ended up going back and adding two walls on the side:
 
-![](support1.png)
-![](support2.png)
+![](images/support1.png)
+![](images/support2.png)
 
 # May 11th
 
 At this point I've just been editing small aspects of the model like the support for the motors:
-![](support3.png)
-![](support4.png)
+![](images/support3.png)
+![](images/support4.png)
 
 # Final Art for the zoetrope:
 
-<img src="Painting_1.png" width="200"> <img src="Painting_2.png" width="200"> <img src="Painting_3.png" width="200">
+<img src="images/Painting_1.png" width="200"> <img src="images/Painting_2.png" width="200"> <img src="images/Painting_3.png" width="200">
 </br>
-<img src="Painting_4.png" width="200"> <img src="Painting_5.png" width="200"> <img src="Painting_6.png" width="200">
+<img src="images/Painting_4.png" width="200"> <img src="images/Painting_5.png" width="200"> <img src="images/Painting_6.png" width="200">
 </br>
-<img src="Painting_7.png" width="200"> <img src="Painting_8.png" width="200"> <img src="Painting_9.png" width="200">
+<img src="images/Painting_7.png" width="200"> <img src="images/Painting_8.png" width="200"> <img src="images/Painting_9.png" width="200">
 
 
 # Discussion
