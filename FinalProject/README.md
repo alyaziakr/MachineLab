@@ -190,7 +190,9 @@ At this point I've just been editing small aspects of the model like the support
 # Final Art for the zoetrope:
 
 <img src="Painting_1.png" width="200"> <img src="Painting_2.png" width="200"> <img src="Painting_3.png" width="200">
+</br>
 <img src="Painting_4.png" width="200"> <img src="Painting_5.png" width="200"> <img src="Painting_6.png" width="200">
+</br>
 <img src="Painting_7.png" width="200"> <img src="Painting_8.png" width="200"> <img src="Painting_9.png" width="200">
 
 
